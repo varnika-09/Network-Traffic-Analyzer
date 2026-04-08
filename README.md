@@ -23,6 +23,7 @@ sudo python3 traffic_analyzer.py
 python3 analyze_pcap.py yourfile.pcap
 
 ## Example Output
-![alt text](image.png)
+<img width="798" height="675" alt="image" src="https://github.com/user-attachments/assets/2fd79836-8cca-4a03-b7e2-64c87c261d8b" />
+
 <img width="753" height="348" alt="image" src="https://github.com/user-attachments/assets/ac1ad2bc-92f2-4532-a900-670a5c7527bc" />
 For this example we tracking the packets of our local host, but obtaining many entries from local host is difficult so we run the command "ping 127.0.0.1 -c 10" as "ping" sends small data packets to an IP address to test connectivity. 
