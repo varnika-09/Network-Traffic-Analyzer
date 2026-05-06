@@ -29,3 +29,4 @@ python3 analyze_pcap.py yourfile.pcap
 
 
 For this example we tracking the packets of our local host, but obtaining many entries from local host is difficult so we run the command "ping 127.0.0.1 -c 10" as "ping" sends small data packets to an IP address to test connectivity. 
+VARNIKA banerjee
